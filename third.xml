@@ -1,0 +1,32 @@
+
+
+="" CLASSID="<s>" PHONE="silB" CM="0.990"/>
+    <WHYPO ="きいろ" CLASSID="DIRECTION" PHONE="k i i r o" CM="0.961"/>
+    <WHYPO ="" CLASSID="</s>" PHONE="silE" CM="1.000"/>
+  </SHYPO>
+</RECOGOUT>
+.
+<INPUT STATUS="LISTEN" TIME="1468952246"/>
+.
+HOGEHOGE
+きいろ
+
+
+りたりこ
+lifeistech
+="" CLASSID="<s>" PHONE="silB" CM="0.965"/>
+    <WHYPO 
+    	りたりこ
+lifeistech
+="きいろ" CLASSID="DIRECTION" PHONE="k i i r o" CM="0.930"/>
+    <WHYPO 
+    	りたりこ
+lifeistech
+="" CLASSID="</s>" PHONE="silE" CM="1.000"/>
+  </SHYPO>
+</RECOGOUT>
+.
+<INPUT STATUS="LISTEN" TIME="1468952386"/>
+.
+HOGEHOGE
+きいろ

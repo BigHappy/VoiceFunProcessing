@@ -224,7 +224,18 @@ String getWord() throws Exception {
     rectes.add(r);
   }
   }
-  return word;
+  if (word.matches("いっぱい")) {
+     for(int i = 0; i < 10; i++){
+    c = new Circle(width/2,30);
+    circles.add(c);
+  }
+  for(int i = 0; i < 10; i++){
+    r = new Rect(width/2,30);
+    rectes.add(r);
+  }
+  }
+  
+return word;
 }
 
 //消してもいいやつ 

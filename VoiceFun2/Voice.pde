@@ -7,6 +7,7 @@ class Voice {
   int fontNum;
   int switchNum = 7;
   int switchNum2 = 0;
+  int colorNum = 0;
 
   
   Voice(float x, float y, String voice_){
@@ -28,6 +29,9 @@ class Voice {
     w = 16;
     h = 16;
     switchNum2 = 2;
+  }
+  if (voice.matches("からふる")) {
+    colorNum = 1;
   }
     makeBody(new Vec2(x, y), w, h);
   }
@@ -63,7 +67,12 @@ class Voice {
     pushMatrix();
     translate(pos.x, pos.y);
     rotate(-a);
+    
     fill(255);
+    if(colorNum == 1){
+      fill(random(255),random(255),random(255));
+    }
+    //colorNum = 0;
     stroke(0);
     strokeWeight(2);
     PFont font2 = createFont("MS Gothic",48,true);

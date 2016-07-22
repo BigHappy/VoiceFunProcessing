@@ -1,0 +1,22 @@
+  2 .
+  3
+  4
+  5 <ENDRECOG/>
+  6 .
+  7 <INPUTPARAM FRAMES="97" MSEC="970"/>
+  8 .
+  9
+ 10
+ 11 <RECOGOUT>
+ 12   <SHYPO RANK="1" SCORE="-2772.608643">
+ 13       <WHYPO WORD="" CLASSID="<s>" PHONE="silB" CM="0.888"/>
+ 14             <WHYPO WORD="きいろ" CLASSID="DIRECTION" PHONE="k i i r o" CM="0    .913"/>
+ 15                 <WHYPO WORD="" CLASSID="</s>" PHONE="silE" CM="1.000"/>
+ 16                 </SHYPO>
+ 17 </RECOGOUT>
+ 18 .
+ 19 <INPUT STATUS="LISTEN" TIME="1468951711"/>
+ 20 .
+ 21 HOGEHOGE
+ 22 きいろ
+ 23 :

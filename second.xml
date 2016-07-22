@@ -1,0 +1,14 @@
+
+
+<RECOGOUT>
+  <SHYPO RANK="1" SCORE="-2256.319580">
+    <WHYPO  ="" CLASSID="<s>" PHONE="silB" CM="0.941"/>
+    <WHYPO  ="きいろ" CLASSID="DIRECTION" PHONE="k i i r o" CM="0.956"/>
+    <WHYPO  ="" CLASSID="</s>" PHONE="silE" CM="1.000"/>
+  </SHYPO>
+</RECOGOUT>
+.
+<INPUT STATUS="LISTEN" TIME="1468952162"/>
+.
+HOGEHOGE
+きいろ
