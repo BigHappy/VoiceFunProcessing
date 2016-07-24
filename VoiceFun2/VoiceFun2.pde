@@ -229,6 +229,19 @@ String getWord() throws Exception {
     c = new Circle(width/2,30);
     circles.add(c);
   }
+  if (word.matches("きえろ")) {
+    for (int i = circles.size()-1; i >= 0; i--) {
+      circles.remove(i);
+    }
+    for (int i = voices.size()-1; i >= 0; i--) {
+      voices.remove(i);
+    }
+    for (int i = rectes.size()-1; i >= 0; i--) {
+      rectes.remove(i);
+    }
+  
+     
+  }
   for(int i = 0; i < 10; i++){
     r = new Rect(width/2,30);
     rectes.add(r);

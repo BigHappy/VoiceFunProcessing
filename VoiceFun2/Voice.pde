@@ -14,6 +14,14 @@ class Voice {
     w = random(16, 30);
     h = random(16, 30);
     voice = voice_;
+    
+    if(voice.matches("びっくり")){
+      voice = "!";
+    }
+    if(voice.matches("はてな")){
+      voice = "?";
+    }
+    
     if (voice.matches("つるつる")) {
     switchNum = 8;
   }
