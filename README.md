@@ -9,7 +9,7 @@ Juliusをサーバーモードで起動してから、Processingのプロジェ�
 人の声に反応して背景色が変わり、文字や図形が描画される。
 
 ## Demo
-<img src="./../sample.gif" alt="VoiceFunProcessing" title="サンプル">
+<img src="./sample.gif" alt="VoiceFunProcessing" title="サンプル">
 ## VS.
 
 ## Requirement
