@@ -10,20 +10,9 @@ Juliusをサーバーモードで起動してから、Processingのプロジェ�
 
 ## Demo
 <img src="./sample.gif" alt="VoiceFunProcessing" title="サンプル">
-## VS.
 
-## Requirement
 
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[BigHappy](https://github.com/BigHappy)
